@@ -14,4 +14,4 @@ Cada um dos processos deve ser inicializado manualmente utilizando os seguintes 
 “python3 manage.py runserver {IP do Raspberry}:8000”;
 Uma observação importante: para conhecer o IP do Raspberry deverá executar o comando “ifconfig”. Se o Raspberry estiver conectado à uma rede WI-FI deverá procurar por “wlan0” e encontrar o campo “inet”. O IP atribuído estará aí. Se estiver conectado à uma rede Ethernet o procedimento é semelhante, mas em vez de “wlan0” deverá procurar por “eth0”. 
 
-Para documentação completa ler "Relatório.pdf".
+Para documentação completa ler "RelatorioProjeto.pdf".
